@@ -1,0 +1,22 @@
+{
+  "name": "វត្តធនរតនេសោភណារាម (ព្រៃស្ដី) និង ពុទ្ធិកបឋមសិក្សា",
+  "short_name": "វត្តព្រៃស្ដី",
+  "description": "កម្មវិធីទូរស័ព្ទ និងគេហទំព័រផ្លូវការ វត្តធនរតនេសោភណារាម និងសាលាពុទ្ធិកបឋមសិក្សា",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcfaf6",
+  "theme_color": "#7c2d12",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images/wat-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/wat-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
